@@ -10,10 +10,10 @@ const Features = () => {
             <Container>
                 <div className="flex flex-col items-center text-center max-w-2xl mx-auto">
                     <h2 className="text-2xl md:text-4xl lg:text-5xl font-heading font-medium !leading-snug mt-6">
-                        AI-Powered marketing <br /> made <span className="font-subheading italic">simple</span>
+                        Everything you need to <br /> build <span className="font-subheading italic">faster</span>
                     </h2>
                     <p className="text-base md:text-lg text-center text-accent-foreground/80 mt-6">
-                        Transform your marketing with AI-powered automation. Create campaigns faster, generate better content, and make smarter decisions in minutes.
+                        A complete landing page template with modern design, smooth animations, and production-ready code. Save weeks of development time and launch your project today.
                     </p>
                 </div>
             </Container>
@@ -27,10 +27,10 @@ const Features = () => {
                         index === 2 && "md:col-span-2 lg:col-span-1",
                     )}>
                         <MagicCard
-                            gradientFrom="#38bdf8"
-                            gradientTo="#3b82f6"
+                            gradientFrom="#fb7185"
+                            gradientTo="#e11d48"
                             className="p-4 lg:p-6 lg:rounded-3xl"
-                            gradientColor="rgba(59,130,246,0.1)"
+                            gradientColor="rgba(225,29,72,0.1)"
                         >
                             <div className="flex items-center space-x-4 mb-4">
                                 <h3 className="text-xl font-semibold flex items-center gap-2">

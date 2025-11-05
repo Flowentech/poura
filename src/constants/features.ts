@@ -8,32 +8,32 @@ import {
 
 export const FEATURES = [
     {
-        title: "Enhance User Experience",
-        description: "Efficiently manage user data and interactions with advanced AI tools",
+        title: "Modern Design System",
+        description: "Built with Tailwind CSS and Shadcn UI components for a polished, professional look that's fully customizable",
         icon: WandSparklesIcon,
         image: "/images/feature-two.svg",
     },
     {
-        title: "Comprehensive Insights",
-        description: "Gain deep insights into your audience and campaign performance",
+        title: "Responsive & Optimized",
+        description: "Mobile-first design with lightning-fast performance. Optimized for all devices and screen sizes",
         icon: ChartColumnBigIcon,
         image: "/images/feature-one.svg",
     },
     {
-        title: "Data Management",
-        description: "Manage your data with ease and efficiency",
+        title: "Type-Safe Development",
+        description: "Built with TypeScript and Next.js 15 for reliable, maintainable code with excellent developer experience",
         icon: DatabaseIcon,
         image: "/images/feature-three.svg",
     },
     {
-        title: "Real-Time Analytics",
-        description: "Track and analyze your marketing performance in real-time",
+        title: "Smooth Animations",
+        description: "Powered by Framer Motion with beautiful micro-interactions and smooth page transitions out of the box",
         icon: TrendingUpIcon,
         image: "/images/feature-four.svg",
     },
     {
-        title: "Dynamic Optimization",
-        description: "AI-powered optimization for smarter marketing",
+        title: "Production Ready",
+        description: "Deploy in minutes to Vercel with built-in best practices, SEO optimization, and clean code architecture",
         icon: ZapIcon,
         image: "/images/feature-five.svg",
     }
