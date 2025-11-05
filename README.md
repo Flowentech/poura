@@ -45,11 +45,18 @@ Check out the live demo of poura here: [Live Preview](https://poura-app.vercel.a
 
 ## 🔧 Environment Variables
 
-Create a `.env` file in the root directory:
+Create a `.env.local` file in the root directory:
 
 ```env
-NEXT_PUBLIC_APP_URL=your_app_url
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+NEXT_PUBLIC_APP_NAME=poura
+NEXT_PUBLIC_AUTHOR_NAME=flowentech
 ```
+
+**For Vercel deployment**, add these environment variables in your Vercel project settings:
+- `NEXT_PUBLIC_APP_URL` - Your production URL (e.g., https://poura.vercel.app)
+- `NEXT_PUBLIC_APP_NAME` - poura
+- `NEXT_PUBLIC_AUTHOR_NAME` - flowentech
 
 ## 🚀 Deploy on Vercel
 
