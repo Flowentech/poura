@@ -159,9 +159,9 @@ export default {
 				"1/8": "12.5%",
 			},
 			fontFamily: {
-				heading: ['var(--font-heading)'],
+				heading: ['Nohemi', 'var(--font-heading)', 'sans-serif'],
 				subheading: ['var(--font-subheading)'],
-				base: ['var(--font-base)'],
+				base: ['Nohemi', 'var(--font-base)', 'sans-serif'],
 			},
 		}
 	},
